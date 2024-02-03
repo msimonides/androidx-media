@@ -1,5 +1,14 @@
 [
   {
+    "name": "Bug",
+    "samples": [
+      {
+        "name": "Bug: audio stops at 2:18 if played without seeking.",
+        "uri": "asset:///demo.mp3"
+      }
+    ]
+  },
+  {
     "name": "Clear DASH",
     "samples": [
       {
